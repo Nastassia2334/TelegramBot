@@ -11,6 +11,7 @@
 
 ***- Информация***
   - информация о боте
+    
     ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/a7f158c2-5faf-4a34-826f-1ed6513f5b2a)
 
 ***- Разработчик***
@@ -44,6 +45,7 @@
 **-/rassilka**
 
   Делаем рассылку пользователям - фотография с текстом. В коде реализовано так, чтобы бот рассылал текст, который написан через пробел к   команде. 
+  
   ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/a984366c-e771-48ac-bbf1-b85c5ec24d6a)
   ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/1d4a77e8-3492-4a47-a5d8-4cde7ffbd44e)
 
