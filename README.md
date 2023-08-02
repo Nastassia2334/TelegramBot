@@ -22,10 +22,15 @@
     
 ***- Добавить фото***
   - добавляет прикрепленное изображение в галерею
-    ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/9018435c-879b-4e03-96e3-f20d879a328f)
+    ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/bcc55c43-f782-46f4-91f9-5555d1810d5f)
+
     
 ***- Открыть фото из галереи***
   - отправляет пользователю все изображения из галереи
+    ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/e4f5952c-657e-4f35-af65-a95ad3657721)
+    ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/9e441b91-9b8e-4d3a-8f5d-03f215d7f44a)
+
+
  
     
 ## Команды для админа:
