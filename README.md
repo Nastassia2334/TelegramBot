@@ -42,10 +42,3 @@
   ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/a984366c-e771-48ac-bbf1-b85c5ec24d6a)
   ![image](https://github.com/Nastassia2334/TelegramBot/assets/122525312/1d4a77e8-3492-4a47-a5d8-4cde7ffbd44e)
 
-
-
-
-
-
-
-
